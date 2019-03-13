@@ -1,0 +1,26 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "Grunt",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.3",
+    "grunt-mocha-cli": "^4.0.0",
+    "grunt-run": "^0.8.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuruiting1/grunt-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuruiting1/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/xuruiting1/grunt-demo#readme"
+}
